@@ -12,5 +12,6 @@ ii)Data cleaning -identifying any data is missing in any of the  record or not ,
 iii)Label Encoding for categorical values to convert the string values in form of single digit so that it will be easy for machine learning models to apply the model and optimise
 iv)Removing the unnecessary columns  according to my view- such as Item_Identifer dosen't seems to have relation with demand and Outlet Establishment year dosen't  act as decision variable that will affect sales or demand.
 
-
+Imposing the model on cleaned dataset and trying to optimise the result with all the models to check which model is giving greater accuracy on the result obtained.
+I applied Random Forest Regressor and Linear Regression Model for my task
 
